@@ -11,4 +11,9 @@ I am an aspiring AI Engineer building my path through hands-on projects and cont
 ## My Projects
 * [FreelancePro AI]
 *  (https://huggingface.co/spaces/Inshrah/FreelancePro_AI)
-
+## Let's Connect
+* [Linkdin)
+* https://www.linkedin.com/in/inshrah-fatima
+* Email:
+* inshrahfatima78900@gmail.com
+* 
