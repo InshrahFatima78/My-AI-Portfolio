@@ -1,4 +1,4 @@
-# My-AI-Portfolio
+ # My-AI-Portfolio
 
 A collection of my machine learning, deep learning, and AI projects. Passionate about building intelligent solutions and exploring data-driven technologies.
 
@@ -14,4 +14,4 @@ I am an aspiring AI Engineer building my path through hands-on projects and cont
 ## Let's Connect
 * [Linkdin)
 * https://www.linkedin.com/in/inshrah-fatima
-Customer churn prediction  
+*   Customer churn prediction  
